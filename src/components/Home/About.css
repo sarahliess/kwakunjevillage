@@ -1,0 +1,15 @@
+#about {
+  border: solid black;
+  padding: 3rem 0;
+}
+
+#about > .container {
+  border: solid blue;
+}
+
+.usp {
+  border: solid grey;
+  width: 50%;
+  margin: 0 auto;
+  padding: 1.5rem;
+}

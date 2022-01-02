@@ -1,0 +1,40 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Chelsea Market";
+}
+
+/* header {
+  border: solid green;
+} */
+
+/* header .container {
+  border: solid blue;
+} */
+
+/* nav > div {
+  border: solid pink;
+} */
+
+/* .text-container {
+  border: solid green;
+} */
+
+nav > div > a > p {
+  color: black;
+  font-family: "Chelsea Market";
+  font-size: 20px;
+  text-transform: uppercase;
+  /* border: solid orange; */
+}
+
+nav > div > a {
+  text-decoration: none;
+}
+
+/* nav > div > a:hover {
+  color: #ffc107;
+} */

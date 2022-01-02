@@ -1,0 +1,22 @@
+.roompreview {
+  border: solid purple;
+  padding: 3rem 0;
+}
+
+section.roompreview > .container {
+  /* border: solid green; */
+  min-height: 50vh;
+}
+
+section.roompreview > .container > .row {
+  display: flex;
+  justify-content: center;
+  /* border: solid red; */
+}
+
+.roompreview-card {
+  border: solid pink;
+  text-align: center;
+  font-size: 20px;
+  min-height: 200px;
+}
