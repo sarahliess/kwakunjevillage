@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/kwakunjevillage/static/css/main.31d6cfe0.css",
-    "main.js": "/kwakunjevillage/static/js/main.7ed82dd9.js",
+    "main.css": "/kwakunjevillage/static/css/main.bc04b178.css",
+    "main.js": "/kwakunjevillage/static/js/main.1e1666b4.js",
     "static/js/787.cc39ef22.chunk.js": "/kwakunjevillage/static/js/787.cc39ef22.chunk.js",
     "index.html": "/kwakunjevillage/index.html",
-    "main.7ed82dd9.js.map": "/kwakunjevillage/static/js/main.7ed82dd9.js.map",
+    "main.bc04b178.css.map": "/kwakunjevillage/static/css/main.bc04b178.css.map",
+    "main.1e1666b4.js.map": "/kwakunjevillage/static/js/main.1e1666b4.js.map",
     "787.cc39ef22.chunk.js.map": "/kwakunjevillage/static/js/787.cc39ef22.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.7ed82dd9.js"
+    "static/css/main.bc04b178.css",
+    "static/js/main.1e1666b4.js"
   ]
 }
