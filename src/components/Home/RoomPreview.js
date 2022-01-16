@@ -11,9 +11,7 @@ function RoomPreview() {
           <div className="roompreview-card col-sm-3 m-3">Family Room</div>
           <div className="roompreview-card col-sm-3 m-3">Dormitory</div>
         </div>
-        <button className="btn btn-success flex-button">
-          See all of our rooms
-        </button>
+        <button className="btn btn-success">See all of our rooms</button>
       </div>
     </section>
   );
